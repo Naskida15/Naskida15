@@ -2,7 +2,8 @@
 - 👀 I’m interested in Django, Python and Web-programming
 - 🌱 I’m currently learning Django, Python
 - 📫 Social👇👇
-
+https://www.facebook.com/nika.naskidashvili.50
+https://www.instagram.com/nika_nasyida/
   
 
 <!---
