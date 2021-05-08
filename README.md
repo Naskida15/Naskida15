@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django, Python and Web-programming
 - 🐍 I’m currently learning Django, Python
 
-#### 📫 **I know**👇👇
+#### 🧠 **I know**👇👇
 - Html/Css
 - Learning Python, Django 🐍
 - Learning JS/Jquery
