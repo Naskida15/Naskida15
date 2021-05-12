@@ -7,6 +7,8 @@
 - 📅 My 2021 Plan: Code many intresting websites and scripts with Python, Django
 - 💬 Fun Fact: I love mountain biking
 
+
+![](https://komarev.com/ghpvc/?username=Nasyida&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Nasyida.Nasyida) ![GitHub followers](https://img.shields.io/github/followers/Nasyida?style=social) 
 ---
 
 ### 🧠 **I know**👇👇
@@ -17,8 +19,8 @@
 
 ---
 
-### ⌨️ Technologies/Languages I used:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a> <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/>  
+### ⌨️ Technologies and Languages I use and study:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/>  
     
 ---
 
@@ -38,14 +40,11 @@
 
 ---
 
-```
-   _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
-  | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
-  | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
-  |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
-                                          |___/
-```
+![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasyida&theme=highcontrast&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasyida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Nasyida&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=Nasyida.Nasyida)
+
+
+
+
 
