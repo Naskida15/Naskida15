@@ -20,9 +20,9 @@
 ---
 
 ### ⌨️ Technologies and Languages I use and study:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44" height="44"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44" height="44"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="38" height="38"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="38" height="38"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="60" height="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="34" height="34"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="34" height="34"/> 
     
----
+---    
 
 ### 📫 **Social**👇👇
 - <a href="https://instagram.com/nika_nasyida" target="_blank">
