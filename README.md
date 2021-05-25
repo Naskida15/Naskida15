@@ -17,8 +17,6 @@
 ### 🧠 **I know**👇👇
 - Html/Css
 - Learning Python, Django 🐍
-- Learning JS/Jquery
-- MySQL
 
 ---
 
