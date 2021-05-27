@@ -21,7 +21,20 @@
 ---
 
 ### 🛠️ Stack and tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="44" height="44"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="44" height="44"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="38" height="38"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="38" height="38"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="60" height="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="34" height="34"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="34" height="34"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="34" height="34"/> 
+![Python](https://img.shields.io/badge/Python-yellow.svg?style=flat&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C+#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
+![JQuery](	https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-gray.svg?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github)
+![Heroku](https://img.shields.io/badge/Heroku-violet.svg?style=flat&logo=heroku)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
     
 ---    
 
