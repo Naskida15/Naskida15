@@ -11,7 +11,7 @@
 - 💬 Fun Fact: I love mountain biking
 
 
-![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Nasyida.Nasyida) ![GitHub followers](https://img.shields.io/github/followers/Nasyida?style=social) 
+![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social) 
 ---
 
 ### 🧠 **I know**👇👇
