@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-violet.svg?style=flat&logo=heroku)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0510D8?style=flat&logo=linux&logoColor=black)
     
 ---    
 
