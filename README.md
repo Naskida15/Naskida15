@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @Naskida15. 
 ### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
-
-##### I live in Georgia, Tbilisi. For me coding is entertainment. 😁
+#### I live in Georgia, Tbilisi. For me coding is entertainment. 😁
 
 ### ℹ️ About me
 
@@ -12,21 +11,12 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social) 
----
-
-### 🧠 **I know**👇👇
-- Html/Css
-- Learning Python, Django 🐍
-- Learning JS/JQuery
-- MYSQL
 
 ---
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-yellow.svg?style=flat&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C+#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
@@ -37,20 +27,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-violet.svg?style=flat&logo=heroku)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0510D8?style=flat&logo=linux&logoColor=black)
-    
----    
-
-### 📫 **Social**👇👇
-- <a href="https://instagram.com/nika_nasyida" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-- <a href="https://www.facebook.com/nika.naskidashvili.50" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-  
-
----
+![Linux](https://img.shields.io/badge/Linux-00599C?style=flat&logo=linux&logoColor=black)
 
 ### 🛠 **My works**👇👇
 - https://schoolmarks.herokuapp.com (first web app 😂)
