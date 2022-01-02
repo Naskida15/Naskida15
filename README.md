@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @Naskida15. 
 ### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
-#### I live in Georgia, Tbilisi. For me coding is entertainment. 😁
 
 ### ℹ️ About me
 
