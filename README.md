@@ -22,6 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-violet.svg?style=flat&logo=heroku)
+![Nginx](https://img.shields.io/badge/Nginx-green.svg?style=flat&logo=Nginx)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
