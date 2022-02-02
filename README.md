@@ -8,7 +8,8 @@
 - 📅 My 2022 Plan: Dive deep into Python, Maybe learn Javascript 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
 
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_nasyida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social)
+<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_nasyida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![](https://www.codewars.com/users/Nasyida/badges/micro)
+ ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social)
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-yellow.svg?style=flat&logo=python&logoColor=blue)
