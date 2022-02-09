@@ -3,7 +3,7 @@
 
 ### ℹ️ About me
 
-- 👀 I’m interested in Web-programming
+- 👀 I’m interested in Web-programming, Data-Science, DevOps
 - 🐍 I’m currently learning Django, Python
 - 📅 My 2022 Plan: Dive deep into Python, Maybe learn Javascript 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
