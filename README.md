@@ -28,9 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
 ### 🛠 **My works**👇👇
-- https://schoolmarks.herokuapp.com (first web app 😂)
-- https://github.com/Naskida15/Hotel-PMS-preview
-- https://darkzone-forum.cf/
+- https://t.me/GeoEyeBot
 - https://secretsanta.ga/
 
 ---
