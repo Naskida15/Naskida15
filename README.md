@@ -27,7 +27,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
-### 🛠 **My works**👇👇
+### 🛠 **Notable works**
 - https://t.me/GeoEyeBot
 - https://secretsanta.ga/
 
