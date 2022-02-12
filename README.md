@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
 - 🐍 I’m currently learning Django, Python
-- 📅 My 2022 Plan: Dive deep into Python, Maybe learn Javascript 🌚  
+- 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
 
 <a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_nasyida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![](https://www.codewars.com/users/Nasyida/badges/micro)
@@ -27,7 +27,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
-### 🛠 **Notable works**
+### ⭐ **Notable works**
 - https://t.me/GeoEyeBot
 - https://secretsanta.ga/
 
