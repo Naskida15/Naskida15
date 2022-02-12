@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Naskida15. 
 ### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
 
-### ℹ️ About me
+### 👨‍💻 About me
 
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
 - 🐍 I’m currently learning Django, Python
