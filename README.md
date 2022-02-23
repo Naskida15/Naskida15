@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Naskida15. 
+## 👋 Hi, I’m @NickNaskida. 
 ### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
 
 ### 👨‍💻 About me
@@ -8,7 +8,7 @@
 - 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
 
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_nasyida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![](https://www.codewars.com/users/Nasyida/badges/micro)
+<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![](https://www.codewars.com/users/Nasyida/badges/micro)
  ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social)
 
 ### 🛠️ Stack and tools:
