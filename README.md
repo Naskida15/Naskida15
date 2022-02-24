@@ -8,8 +8,8 @@
 - 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
 
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=Naskida15&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Naskida15.Naskida15) ![](https://www.codewars.com/users/Nasyida/badges/micro)
- ![GitHub followers](https://img.shields.io/github/followers/Naskida15?style=social)
+<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://www.codewars.com/users/Nasyida/badges/micro)
+ ![GitHub followers](https://img.shields.io/github/followers/NickNaskida?style=social)
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-yellow.svg?style=flat&logo=python&logoColor=blue)
@@ -32,8 +32,8 @@
 - https://secretsanta.ga/
 
 ---
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naskida15&hide_border=true5&theme=chartreuse-dark)
-![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naskida15&theme=chartreuse-dark&show_icons=true) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickNaskida&hide_border=true5&theme=chartreuse-dark)
+![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
 
 
 
