@@ -4,7 +4,7 @@
 ### 👨‍💻 About me
 
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
-- 🐍 I’m currently learning Django, Python
+- 🐍 I’m currently learning FastAPI, React
 - 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
 
