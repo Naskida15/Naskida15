@@ -29,9 +29,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 
 ### ⭐ **Notable works**
-- https://t.me/GeoEyeBot
-- https://secretsanta.ga/
-- https://github.com/NickNaskida/Hotel-PMS-preview
+- [GeoEyeBot](https://t.me/GeoEyeBot)
+- [Secret Santa](https://secretsanta.ga/)
+- [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
 
 ---
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickNaskida&hide_border=true5&theme=chartreuse-dark)
