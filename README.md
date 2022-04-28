@@ -31,6 +31,7 @@
 ### ⭐ **Notable works**
 - https://t.me/GeoEyeBot
 - https://secretsanta.ga/
+- https://github.com/NickNaskida/Hotel-PMS-preview
 
 ---
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickNaskida&hide_border=true5&theme=chartreuse-dark)
