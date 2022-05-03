@@ -29,9 +29,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ### ⭐ **Notable works**
-- [GeoEyeBot](https://t.me/GeoEyeBot)
 - [Secret Santa](https://secretsanta.ga/)
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
+- [GeoEyeBot](https://t.me/GeoEyeBot)
+
 
 ---
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickNaskida&hide_border=true5&theme=chartreuse-dark)
