@@ -4,12 +4,9 @@
 ### 👨‍💻 About me
 
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
-- 🐍 I’m currently learning FastAPI, React
-- 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps 🌚  
+- 👾 I’m currently learning FastAPI, React, System Design
+- 📅 My 2022 Plan: Dive deep into Python, RestApi, FastApi, DevOps, System Design 🌚  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😂
-
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://www.codewars.com/users/Nasyida/badges/micro)
- ![GitHub followers](https://img.shields.io/github/followers/NickNaskida?style=social)
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=yellow)
@@ -34,8 +31,11 @@
 - [GeoEyeBot](https://t.me/GeoEyeBot)
 
 
+### 🔗 **Other**
+<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://www.codewars.com/users/Nasyida/badges/micro)
+ ![GitHub followers](https://img.shields.io/github/followers/NickNaskida?style=social)
+
 ---
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickNaskida&hide_border=true5&theme=chartreuse-dark)
 ![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
 
 
