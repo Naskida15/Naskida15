@@ -9,7 +9,7 @@
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
 - 👾 I’m currently learning FastAPI, React, System Design
 - 📅 My 2022 Plan: Dive deep into Python, API frameworks, DevOps, System Design 🌚
-- 📋 Future Plans: Learn Java and GO, microservice architecture  
+- 📋 Future Plans: Learn Java and GO, software architecture  
 - 💬 Fun Fact: If a project is interesting, I can't stop working on it 😄
 
 ### 🛠️ Stack and tools:
@@ -37,7 +37,7 @@
 
 ### 🔗 **Other**
 <a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://www.codewars.com/users/Nasyida/badges/micro)
- ![GitHub followers](https://img.shields.io/github/followers/NickNaskida?style=social)
+
 
 ---
 ![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
