@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m @NickNaskida. 
 ### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
+![banner](https://user-images.githubusercontent.com/82929931/174451558-6ddd08a9-06a0-4e60-8cfe-df78839175c6.png)
 
-![banner](https://user-images.githubusercontent.com/82929931/174359974-b353184c-54dd-4550-ab48-84b740e98227.png)
+
 
 
 ### 👨‍💻 About me
