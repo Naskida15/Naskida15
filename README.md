@@ -20,6 +20,7 @@
 ![React](	https://img.shields.io/badge/React-20232a?style=flat&logo=React&logoColor=61dafb)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/docker-2496ed.svg?style=flat&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx)
