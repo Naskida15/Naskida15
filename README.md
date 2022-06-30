@@ -40,8 +40,11 @@
 - [GeoEyeBot](https://t.me/GeoEyeBot)
 
 
-### 🔗 **Other**
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> ![](https://www.codewars.com/users/Nasyida/badges/micro)
+### 🔗 **Social**
+<a href="https://www.linkedin.com/in/nikoloz-naskidashvili/">![](https://img.shields.io/badge/LinkedIn-0a65c1?style=flat&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a>
+<a href="https://www.twitter.com/NickNaskida/">![](https://img.shields.io/badge/Twitter-1d9bf0?style=flat&logo=twitter&logoColor=white)</a> 
+<a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> 
 
 
 ---
