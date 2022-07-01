@@ -16,6 +16,7 @@
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![React](	https://img.shields.io/badge/React-20232a?style=flat&logo=React&logoColor=61dafb)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
