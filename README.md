@@ -51,7 +51,7 @@
 
 
 ---
-![Nasyidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
+![NickNaskida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
 
 
 
