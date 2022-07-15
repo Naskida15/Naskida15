@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web-programming, Data-Science, DevOps
 - 🌱 I’m currently learning FastAPI, React, Docker, System Design
 - 📅 My 2022 Plan: Dive deep into Python, API frameworks, DevOps, System Design 🌚
-- 🔭 Future Plans: Learn Java and GO, software architecture  
+- 🔭 Future Plans: Learn Java and C++, software architecture  
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
 
 ### 🛠️ Stack and tools:
