@@ -28,7 +28,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx)
 ![MySQL](https://img.shields.io/badge/MySQL-gray.svg?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
