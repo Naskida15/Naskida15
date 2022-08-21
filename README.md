@@ -1,5 +1,12 @@
-## 👋 Hi, I’m @NickNaskida. 
-### Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). 
+<h1 align="center">👋 Hi, I’m NickNaskida</h1>
+<h4 align="center">Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). </h4>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/nikoloz-naskidashvili/"><img src="https://img.shields.io/badge/LinkedIn-0a65c1?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/NickNaskida"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+  <a href="https://www.twitter.com/NickNaskida/"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=flat&logo=twitter&logoColor=white" /></a> 
+</p>
+
+
 ![banner](https://user-images.githubusercontent.com/82929931/174451558-6ddd08a9-06a0-4e60-8cfe-df78839175c6.png)
 
 
@@ -37,14 +44,6 @@
 - [Secret Santa](https://secretsanta.ga/)
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
 - [GeoEyeBot](https://t.me/GeoEyeBot)
-
-
-### 🔗 **Social**
-<a href="https://www.linkedin.com/in/nikoloz-naskidashvili/">![](https://img.shields.io/badge/LinkedIn-0a65c1?style=flat&logo=linkedin&logoColor=white)</a> 
-<a href="https://www.facebook.com/nika.naskidashvili.50">![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)</a>
-<a href="https://www.twitter.com/NickNaskida/">![](https://img.shields.io/badge/Twitter-1d9bf0?style=flat&logo=twitter&logoColor=white)</a> 
-<a href="https://www.instagram.com/nika_naskida/">![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a> 
-
 
 ---
 ![NickNaskida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
