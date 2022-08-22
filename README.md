@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m NickNaskida</h1>
-<h4 align="center">Welcome to my Github profile, my name is **Nikoloz Naskidashvili** aka - (**Naskida**). </h4>
+<h4 align="center">Welcome to my Github profile, my name is <b>Nikoloz Naskidashvili</b> aka - (<b>Naskida</b>). </h4>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nikoloz-naskidashvili/"><img src="https://img.shields.io/badge/LinkedIn-0a65c1?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/NickNaskida"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
