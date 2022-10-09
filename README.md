@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About me
 
-- 👀 I’m interested in Web-programming, Data-Science, DevOps
-- 🌱 I’m currently learning FastAPI, Flask, System Design
-- 📅 My 2022 Plan: Dive deep into Python, API frameworks, DevOps, System Design 🌚
-- 🔭 Future Plans: Learn Java and C++, software architecture  
+- 👀 I’m interested in Software Engineering, AI/ML, DevOps
+- 🌱 I’m currently learning Flask, System Design, DevOps (Deploying my app with Docker, Nginx ...)
+- 📅 My 2022 Plan: Dive deep into Python, API frameworks, DevOps, Other tools 🌚
+- 🔭 Future Plans: Learn Java and C++, software engineering  
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
 
 ### 🛠️ Stack and tools:
