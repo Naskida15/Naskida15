@@ -41,7 +41,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ### ⭐ **Notable works**
-- [Secret Santa](https://secretsanta.ga/)
+- [Fuel Prices](https://sawvavi.tk)
+- [Secret Santa](https://secretsanta.ga)
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
 - [GeoEyeBot](https://t.me/GeoEyeBot)
 
