@@ -16,7 +16,7 @@
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps
 - 🌱 I’m currently learning Java, System Design, DevOps
-- 📅 My 2022 Plan: Dive deep into Python, API frameworks, DevOps, Other tools 🌚
+- 📅 My 2023 Plan: More Python, Java, AI/ML, DevOps ... 🌚
 - 🔭 Future Plans: Learn Go, Java 
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
 
