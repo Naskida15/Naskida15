@@ -45,7 +45,6 @@
 - [Fuel Prices](https://sawvavi.tk)
 - [Secret Santa](https://secretsanta.ga)
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
-- [GeoEyeBot](https://t.me/GeoEyeBot) (Data Source Dead)
 
 ---
 ![NickNaskida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
