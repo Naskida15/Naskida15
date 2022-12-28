@@ -15,9 +15,9 @@
 ### 👨‍💻 About me
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps
-- 🌱 I’m currently learning Java, System Design, DevOps
-- 📅 My 2023 Plan: More Python, Java, AI/ML, DevOps ... 🌚
-- 🔭 Future Plans: Learn Go, Java 
+- 🌱 I’m currently learning Java, Microservices, RabbitMQ
+- 📅 My 2023 Plan: More Python, Java, Microservices, RabbitMQ. 🌚
+- 🔭 Future Plans: Learn Go
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
 
 ### 🛠️ Stack and tools:
