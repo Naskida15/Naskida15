@@ -45,10 +45,9 @@
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview)
 
 ---
+![GitHub Statistics](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/overview.svg)
+![GitHub Top Languages](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/languages.svg)
 ![NickNaskida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
-
-[![GitHub Statistics](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/overview.svg)]
-[![GitHub Top Languages](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/languages.svg)]
 
 
 
