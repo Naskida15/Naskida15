@@ -14,7 +14,8 @@
 - 📅 My 2023 learning plan: More Python, Java, Microservices, RabbitMQ. 🌚
 - 🍻 I’m open to collaborate on various extraordinary projects.
 - 💬 Ask me about 
-  - foo
+  - 🌌 Space 🤖 Robotics 💻 Tech 🏀🥋 Sport 👾 Games
+  - 🐍 Python ⭐️ Software Systems 🚧 Startups
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
 
 
