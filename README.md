@@ -30,15 +30,12 @@
 ![Docker](https://img.shields.io/badge/docker-2496ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-ff6c37.svg?style=flat&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-f9fafe.svg?style=flat&logo=digitalocean)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx)
 ![MySQL](https://img.shields.io/badge/MySQL-gray.svg?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ### ⭐ **Notable works**
 - [Fuel Prices](https://sawvavi.tk)
