@@ -9,16 +9,14 @@
 
 ![banner](https://user-images.githubusercontent.com/82929931/174451558-6ddd08a9-06a0-4e60-8cfe-df78839175c6.png)
 
-
-
-
-### 👨‍💻 About me
-
-- 👀 I’m interested in Software Engineering, AI/ML, DevOps
-- 🌱 I’m currently learning Java, Microservices, RabbitMQ
-- 📅 My 2023 Plan: More Python, Java, Microservices, RabbitMQ. 🌚
-- 🔭 Future Plans: Learn Go
+- 👀 I’m interested in Software Engineering, AI/ML, DevOps, large Scale Data Intensive Systems
+- 🌱 I’m currently learning about Java, Microservices 
+- 📅 My 2023 learning plan: More Python, Java, Microservices, RabbitMQ. 🌚
+- 🍻 I’m open to collaborate on various extraordinary projects.
+- 💬 Ask me about 
+  - foo
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
+
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=yellow)
@@ -48,6 +46,10 @@
 
 ---
 ![NickNaskida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNaskida&theme=chartreuse-dark&show_icons=true) 
+
+[![GitHub Statistics](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/overview.svg)]
+[![GitHub Top Languages](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/languages.svg)]
+
 
 
 
