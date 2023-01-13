@@ -9,9 +9,9 @@
 
 ![banner](https://user-images.githubusercontent.com/82929931/174451558-6ddd08a9-06a0-4e60-8cfe-df78839175c6.png)
 
-- 👀 I’m interested in Software Engineering, AI/ML, DevOps, large Scale Data Intensive Systems
+- 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning about Java, Microservices 
-- 📅 My 2023 learning plan: More Python, Java, Microservices, RabbitMQ. 🌚
+- 📅 My 2023 learning plan: Java ☕, Rust 🦀, Microservices, RabbitMQ 🐇. 🌚
 - 🍻 I’m open to collaborate on various extraordinary projects.
 - 💬 Ask me about 
   - 🌌 Space 🤖 Robotics 💻 Tech 🏀 Sport 👾 Games
