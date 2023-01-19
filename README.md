@@ -21,9 +21,8 @@
 
 ### 🛠️ Stack and tools:
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=yellow)
-![Rust](https://img.shields.io/badge/Rust-f66500.svg?style=flat&logo=rust&logoColor=black)
-![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=flat&logo=fastapi&logoColor=black)
+![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
