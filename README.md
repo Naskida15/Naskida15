@@ -11,7 +11,8 @@
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning about Java, Microservices 
-- 📅 My 2023 learning plan: Java ☕, Rust 🦀, Microservices, RabbitMQ 🐇. 🌚
+- 📅 My 2023 learning plan: Java ☕, ML/AI 🤖, Microservices 🧱, RabbitMQ 🐇
+- 🚀 Future Plans: Rust 🦀
 - 🍻 I’m open to collaborate on various extraordinary projects.
 - 💬 Ask me about 
   - 🌌 Space 🤖 Robotics 💻 Tech 🏀 Sport 👾 Games
