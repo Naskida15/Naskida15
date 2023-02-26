@@ -45,6 +45,8 @@
 - [Secret Santa](https://secretsanta.ga)
 - [Hotel-PMS](https://github.com/NickNaskida/Hotel-PMS-preview) -->
 
+### 📊 Statistics
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NickNaskida&show_icons=true&hide_border=true&layout=compactdark&include_all_commits=true&theme=chartreuse-dark&bg_color=00000000">
   <img src="https://github-readme-stats.vercel.app/api?username=NickNaskida&show_icons=true&hide_border=true&layout=compact&hide_rank=true&include_all_commits=true&theme=default&bg_color=00000000">
