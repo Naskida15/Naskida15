@@ -53,12 +53,12 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NickNaskida&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickNaskida&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NickNaskida&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=00000000&border_color=1F2126">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickNaskida&layout=compact&langs_count=8&theme=default&bg_color=00000000&border_color=1F2126">
 </picture>
 
-![GitHub Statistics](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/overview.svg)
-![GitHub Top Languages](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/languages.svg)
+<!-- ![GitHub Statistics](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/overview.svg)-->
+<!-- ![GitHub Top Languages](https://raw.githubusercontent.com/NickNaskida/github-stats-transparent/output/generated/languages.svg)-->
 
 
 
