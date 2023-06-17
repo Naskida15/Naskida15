@@ -11,11 +11,12 @@
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning: Deep Learning and Rust
 - 📅 My 2023 learning plan: Rust 🦀, ML/AI 🤖, Microservices 🧱, RabbitMQ 🐇
-- 🍻 I’m open to collaborate on various extraordinary projects.
+- 🍻 I’m open to collaborating on various extraordinary projects.
 - 💬 Ask me about 
   - 🌌 Space 🤖 Robotics 💻 Tech 🏀 Sport 👾 Games 🎛️ AI/ML
   - 🐍 Python ⭐️ Software Systems 🚧 Startups ⚡️ Electronics
 - ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
+- 💻 Recent Projects: [Petrol.com.ge](https://petrol.com.ge)
 
 <div>
   <h3>🛠️ Stack and Tools</h3>
