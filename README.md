@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=flat&logo=fastapi&logoColor=black">
   <img src="https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django">
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-DD5627.svg?style=flat&logo=Rust&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/React-282C34?style=flat&logo=react&logoColor=">
   <img src="https://img.shields.io/badge/Swift-F6492B?style=flat&logo=swift&logoColor=FFFFFF">
