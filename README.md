@@ -8,6 +8,8 @@
 
 ![banner](https://user-images.githubusercontent.com/82929931/174451558-6ddd08a9-06a0-4e60-8cfe-df78839175c6.png)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning: Deep Learning and Rust
 - 📅 My 2023 learning plan: Rust 🦀, ML/AI 🤖, DDD/TDD/EDD 🧱, RabbitMQ 🐇
