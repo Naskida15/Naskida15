@@ -17,7 +17,7 @@
 - 💬 Ask me about 
   - 💻 Tech 🤖 Robotics 👾 Games 🎛️ AI/ML 🐍 Python 🦀 Rust
   - ⭐️ Software Systems 🚧 Startups ⚡️ Electronics 🌌 Space 🏀 Sports
-- ⚡ Fun Fact: If a project is interesting, I can't stop working on it 😄
+- ⚡️ Fun Fact: If a project is interesting, I can't stop working on it 😄
 - 💻 Recent Projects: [Petrol.com.ge](https://petrol.com.ge)
 
 <div>
