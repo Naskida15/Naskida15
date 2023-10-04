@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/postman-ff6c37.svg?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku">
   <img src="https://img.shields.io/badge/DigitalOcean-f9fafe.svg?style=flat&logo=digitalocean">
-  <img src="https://img.shields.io/badge/Caprover-125C8C.svg?style=flat&logo=caprover">
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx">
   <img src="https://img.shields.io/badge/MySQL-gray.svg?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white">  
