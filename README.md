@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning: Deep Learning and Rust
-- 📅 My 2023 learning plan: ML/AI 🤖, DDD/TDD/EDD 🧱, RabbitMQ 🐇
+- 📅 My 2023 learning plan: ML/AI 🤖, Cloud ☁️
 - 👨‍💻 Languages I am willing to learn: GO 🦦, Rust 🦀
 - 🍻 I’m open to collaborating on various extraordinary projects.
 - 💬 Ask me about 
