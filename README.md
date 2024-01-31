@@ -12,8 +12,8 @@
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
 - 🌱 I’m currently learning: Go 🦦
-- 📅 My 2023 learning plan: ML/AI 🤖, Cloud ☁️
-- 👨‍💻 Languages I am willing to learn: Go 🦦, Rust 🦀
+- 📅 My 2024 learning plan: ML/AI 🤖, Go 🦦, Microservices 📦, System Design 🛠️
+- 👨‍💻 Languages I am willing to learn: Rust 🦀
 - 🍻 I’m open to collaborating on various extraordinary projects.
 - 💬 Ask me about 
   - 💻 Tech 🤖 Robotics 👾 Games 🎛️ AI/ML 🐍 Python 🦦 Go
