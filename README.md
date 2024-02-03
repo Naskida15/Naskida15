@@ -11,13 +11,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
-- 🌱 I’m currently learning: Go 🦦
-- 📅 My 2024 learning plan: ML/AI 🤖, Go 🦦, Microservices 📦, System Design 🛠️
+- 🌱 I’m currently learning: Go 🦦, Apache Kafka
+- 📅 My 2024 learning plan: ML/AI 🤖, Go 🦦, Microservices 📦, System Design & Architecture 🛠️
 - 👨‍💻 Languages I am willing to learn: Rust 🦀
 - 🍻 I’m open to collaborating on various extraordinary projects.
 - 💬 Ask me about 
-  - 💻 Tech 🤖 Robotics 👾 Games 🎛️ AI/ML 🐍 Python 🦦 Go
-  - ⭐️ Software Systems 🚧 Startups ⚡️ Electronics 🌌 Space 🏀 Sports
+  - 💻 Tech / 🤖 Robotics / 👾 Games / 🎛️ AI/ML / 🐍 Python / 🦦 Go
+  - ⭐️ Software Systems / 🚧 Startups / ⚡️ Electronics / 🌌 Space / 🏀 Sports
 - ⚡️ Fun Fact: If a project is interesting, I can't stop working on it 😄
 - 💻 Recent Projects: [Petrol Prices](https://petrol.com.ge), [Code Typer](https://codetyper.nicknaskida.tech)
 
