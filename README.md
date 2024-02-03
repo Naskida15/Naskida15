@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github">
   <img src="https://img.shields.io/badge/docker-2496ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku">
-  <img src="https://img.shields.io/badge/DigitalOcean-f9fafe.svg?style=flat&logo=digitalocean">
   <img src="https://img.shields.io/badge/Google Cloud-D85140.svg?style=flat&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/DigitalOcean-f9fafe.svg?style=flat&logo=digitalocean">
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx">
   <img src="https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white">  
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
