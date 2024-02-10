@@ -32,14 +32,13 @@
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/React-282C34?style=flat&logo=react&logoColor=">
   <img src="https://img.shields.io/badge/Swift-F6492B?style=flat&logo=swift&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github">
   <img src="https://img.shields.io/badge/docker-2496ed.svg?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku">
   <img src="https://img.shields.io/badge/Google Cloud-D85140.svg?style=flat&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/DigitalOcean-f9fafe.svg?style=flat&logo=digitalocean">
+  <img src="https://img.shields.io/badge/Heroku-79589f.svg?style=flat&logo=heroku">
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx">
-  <img src="https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white">  
+  <img src="https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-133330.svg?style=flat&logo=MongoDB&logoColor=6CE975"> 
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
 </div>
 
