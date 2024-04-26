@@ -19,7 +19,7 @@
   - 💻 Tech / 🤖 Robotics / 👾 Games / 🎛️ AI/ML / 🐍 Python / 🦦 Go
   - ⭐️ Software Systems / 🚧 Startups / ⚡️ Electronics / 🌌 Space / 🏀 Sports
 - ⚡️ Fun Fact: If a project is interesting, I can't stop working on it 😄
-- 💻 Recent Projects: [Watchdog](https://github.com/NickNaskida/Watchdog), [Petrol Prices](https://petrol.com.ge), [Code Typer](https://codetyper.nicknaskida.tech)
+- 💻 Recent Projects: [Watchdog](https://github.com/NickNaskida/Watchdog), [Petrol Prices](https://petrol.com.ge), [Code Typer](https://github.com/NickNaskida/CodeTyper)
 
 <div>
   <h3>🛠️ Stack and Tools</h3>
