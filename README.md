@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Go-202224.svg?style=flat&logo=Go">
   <img src="https://img.shields.io/badge/Rust-DD5627.svg?style=flat&logo=Rust&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Typescript-2E79C7?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-282C34?style=flat&logo=react&logoColor=">
   <img src="https://img.shields.io/badge/Swift-F6492B?style=flat&logo=swift&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/docker-2496ed.svg?style=flat&logo=docker&logoColor=white">
