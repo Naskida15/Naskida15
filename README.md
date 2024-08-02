@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-32658E.svg?style=flat&logo=PostgreSQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/MongoDB-133330.svg?style=flat&logo=MongoDB&logoColor=6CE975"> 
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
+  <small>& Anything you can think of 😎</small>
 </div>
 
 <!-- ### ⭐ Notable works
