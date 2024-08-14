@@ -11,8 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 - 👀 I’m interested in Software Engineering, AI/ML, DevOps, Large Scale Data Intensive Systems
-- 🌱 I’m currently learning: Go 🦦, Apache Kafka
-- 📅 My 2024 learning plan: ML/AI 🤖, Go 🦦, Microservices 📦, System Design & Architecture 🛠️
+- 🌱 I’m currently learning: Typescript
+- 📅 My 2024 learning plan: ML/AI 🤖, Go 🦦, Typescript
 - 👨‍💻 Languages I am willing to learn: Rust 🦀
 - 🍻 I’m open to collaborating on various extraordinary projects.
 - 💬 Ask me about 
